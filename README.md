@@ -1,3 +1,12 @@
-# ebd-unit2-sprint1-challenge-DeliveringOnOurPromises
+# MyReallyCoolProject
 
-This repository contains the initial application for the Sprint Challenges for the EBD Unit 2. All information and instructions for using this repo can be found in Canvas in your EBD Unit 2 Sprint 1 Course. If you do not have access to that course, you do not need this repository!
+what it does
+
+## Features
+- AWS Lambda functionality connects to DynamoDB and stores data
+- does thing 1
+- does thing 2
+- Has >90% code coverage
+
+## Future features
+- 
